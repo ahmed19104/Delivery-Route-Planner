@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "Area": "Nasr City",
+    "Priority": 2,
+    "Weight": 4.5
+  },
+  {
+    "Id": 2,
+    "Area": "Maadi",
+    "Priority": 1,
+    "Weight": 2.0
+  },
+  {
+    "Id": 3,
+    "Area": "Nasr City",
+    "Priority": 3,
+    "Weight": 1.2
+  },
+  {
+    "Id": 4,
+    "Area": "Zamalek",
+    "Priority": 1,
+    "Weight": 7.0
+  },
+  {
+    "Id": 5,
+    "Area": "Maadi",
+    "Priority": 2,
+    "Weight": 3.5
+  },
+  {
+    "Id": 6,
+    "Area": "Giza",
+    "Priority": 1,
+    "Weight": 12.0
+  }
+]
